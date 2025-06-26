@@ -1,7 +1,7 @@
 # Html-CSS-Landing-Page-Template
 This is a responsive and modern landing page template built using only HTML5 and CSS3. The template is fully responsive, cleanly structured, and optimized for performance and accessibility.
 
-##📁 Project Structure
+📁 Project Structure
 
 TEMPLATE_1/ │ ├── css/ │ ├── all.min.css │ ├── leon.css │ └── normalize.css │ ├── images/ │ ├── [Images used in the design] │ ├── webfonts/ │ ├── [Font Awesome Webfonts] │ ├── index.html
 
